@@ -4,6 +4,7 @@ init
 status
 add
 commit
+log: look at log, use --oneline to simplify 
 
 
 
